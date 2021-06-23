@@ -451,12 +451,9 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 1759px;
-  }
-
+  
   .u-section-2 .u-image-1 {
-    min-height: 1697px;
+    min-height: 690px;
   }
 
   .u-section-2 .u-text-1 {
